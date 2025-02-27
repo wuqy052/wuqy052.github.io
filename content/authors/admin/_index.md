@@ -53,8 +53,8 @@ interests:
 education:
   - area: PhD in Neuroscience
     institution: California Institute of Technology
-    date_start: 2020-09
-    date_end: 2025-11
+    date_start: 2020-09-28
+    date_end: 2025-11-10
     summary: ''
       
     button:
@@ -62,8 +62,8 @@ education:
       url: 'https://example.com'
   - area: BS in Biology
     institution: University of Science and Technology of China
-    date_start: 2016-09
-    date_end: 2020-06
+    date_start: 2016-09-01
+    date_end: 2020-06-25
     summary: ''
 
 work:
@@ -71,8 +71,8 @@ work:
     company_name: Honda Research Institute USA
     company_url: ''
     company_logo: ''
-    date_start: 2024-06
-    date_end: 2024-09
+    date_start: 2024-06-03
+    date_end: 2024-09-27
     summary: ''
 
 # Awards.
