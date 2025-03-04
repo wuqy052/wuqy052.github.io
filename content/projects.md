@@ -18,12 +18,12 @@ sections:
       title: Social Attention
       text: Placeholder.
       filters:
-        sections:
+        folders:
           - project/attention
     design:
       view: showcase
       fill_image: false
-      columns: 3
+      columns: 1
   - block: collection
     content:
       title: Social Learning
