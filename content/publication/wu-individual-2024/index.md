@@ -38,9 +38,9 @@ abstract: 'The ability to infer the goals and intentions of others is crucial fo
   social learning challenges in ASD, employing a computational psychiatry approach
   that could be applied to other disorders.'
 tags:
-- Decision
-- Learning algorithms
-- Psychology
+- Social Learning
+- Individual Differences
+- Autism
 featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

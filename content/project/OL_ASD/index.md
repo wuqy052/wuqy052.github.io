@@ -1,10 +1,10 @@
 ---
-title: Remote assessment in autism
+title: Observational learning x Autistic traits
 date: 2023-10-26
 external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Webcam-based eye-tracking
-  - Social Attention
+  - Computational Psychiatry
+  - Social Learning
   - Autism
 ---
 
