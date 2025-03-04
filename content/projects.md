@@ -19,7 +19,7 @@ sections:
       text: Placeholder.
       filters:
         folders:
-          - project/attention
+          - project_attention
     design:
       view: showcase
       fill_image: false
