@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Research'
 date: 2024-05-19
 type: landing
 
@@ -15,9 +15,7 @@ sections:
       text: Placeholder.
       filters:
         folders:
-          - project
-        tags:
-          - Social Attention
+          - project/attention
     design:
       view: article-grid
       fill_image: false
@@ -28,9 +26,7 @@ sections:
       text: Place holder.
       filters:
         folders:
-          - project
-        tags:
-          - Social Learning
+          - project/learning
     design:
       view: article-grid
       fill_image: false
