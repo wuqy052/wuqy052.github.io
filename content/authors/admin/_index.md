@@ -44,14 +44,9 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-2665-2205
 
-interests:
-  - Social Decision
-  - Social Attention
-  - Autism
-  - Computational Psychiatry
 
 education:
-  - area: PhD in Neuroscience
+  - area: PhD in Neuroscience (graduating 2025)
     institution: California Institute of Technology
     date_start: 2020-09-28
     date_end: 2025-11-10
@@ -75,6 +70,13 @@ work:
     date_end: 2024-09-27
     summary: ''
 
+interests:
+  - Social Decision
+  - Social Attention
+  - Autism
+  - Computational Psychiatry
+
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -85,8 +87,6 @@ work:
 
 I am a 5th year PhD student in the Social and Decision Neuroscience program at Caltech, co-advised by Ralph Adolphs and John O'Doherty. 
 
-I study human social attention and social learning using eye-tracking, behavioral modeling, and fMRI. I'm interested in understanding how people perceive and interpret the social world, and the cognitive computations underlying social inferences. 
-
-I am always curious to explore the individual differences in people's social strategies - where they look, what they think, and how they react. A big focus of my research is to apply computational tools to characterize atypical social behaivors in psychiatric conditions, especially autism.
+I study <span style="color: #ed6b00; font-weight: bold;">social attention</span> and <span style="color: #ed6b00; font-weight: bold;">social learning</span> using <span style="color: #5f7be8; font-weight: bold;">eye-tracking</span>, <span style="color: #5f7be8; font-weight: bold;">behavioral modeling</span>, and <span style="color: #5f7be8; font-weight: bold;">fMRI</span>. An important part of my research focuses on the individual differences in social strategies - where people look, what they think, and how they react. I apply computational tools to characterize atypical social behaivors in psychiatric conditions, especially <span style="color: #8bbf3d; font-weight: bold;">autism</span>.
 
 
