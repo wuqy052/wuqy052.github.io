@@ -41,6 +41,15 @@ tags:
 - Decision
 - Learning algorithms
 - Psychology
+featured: true
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Individual differences in autism-like traits are associated with reduced goal emulation in a computational model of observational learning'
+  focal_point: ""
+  preview_only: false
+projects:
+- OL_ASD
 links:
 - name: URL
   url: https://www.nature.com/articles/s44220-024-00287-1
