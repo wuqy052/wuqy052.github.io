@@ -23,16 +23,16 @@ sections:
       fill_image: false
       columns: 3
   - block: collection
-  content:
-    title: Social Learning
-    text: Place holder.
-    filters:
-      folders:
-        - project
-      tags:
-        - Social Learning
-  design:
-    view: article-grid
-    fill_image: false
-    columns: 3
+    content:
+      title: Social Learning
+      text: Place holder.
+      filters:
+        folders:
+          - project
+        tags:
+          - Social Learning
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
 ---
