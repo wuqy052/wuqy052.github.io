@@ -16,14 +16,13 @@ sections:
   - block: collection
     content:
       title: Social Attention
-      text: Placeholder.
+      text: I study social attention through various eye-tracking (ET) technologies, including screen-based ET, webcam-based ET, and smartphone ET. Using feature-based eye-tracking models, I characterized individual differences in attention allocations during video free viewing. 
       filters:
         folders:
           - project_attention
     design:
       view: showcase
       fill_image: false
-      columns: 1
   - block: collection
     content:
       title: Social Learning
