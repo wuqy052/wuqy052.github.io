@@ -3,6 +3,7 @@ title: Webcam-based eye-tracking over the internet
 summary:  I recorded gaze data from ~ 600 autistic adults over the internet while they watched several feature-engineered social conversation videos.
 date: 2025-03-01
 share: false
+weight: 1
 tags:
   - Webcam-based eye-tracking
   - Social Attention

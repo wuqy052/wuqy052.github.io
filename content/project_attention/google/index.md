@@ -2,6 +2,7 @@
 title: Smartphone Eye-tracking
 summary:  Partner with Google, we explored the possibility of in-home autism research.
 date: 2025-03-01
+weight: 3
 share: false
 tags:
   - Smartphone Eye-tracking
