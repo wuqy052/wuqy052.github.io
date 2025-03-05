@@ -41,10 +41,11 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+          - project_attention
+          - project_learning
         featured_only: true
     design:
       view: article-grid
-      columns: 1
+      columns: 2
 
 ---

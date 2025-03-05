@@ -26,12 +26,10 @@ sections:
   - block: collection
     content:
       title: Social Learning
-      text: Place holder.
+      text: ''
       filters:
         folders:
-          - project/learning
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+          - project_learning
+      design:
+        view: showcase
 ---
