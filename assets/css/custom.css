@@ -4,3 +4,11 @@
     width: 70% !important;
     margin: auto;
 }
+
+/* Apply 70% width ONLY to the 'project_attention_webgazer' page */
+head:has(meta[property="og:url"][content*="project_attention_webgazer"]) ~ body .article-container {
+    max-width: 70vw !important;
+    width: 70%;
+    margin: auto;
+}
+
