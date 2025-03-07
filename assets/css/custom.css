@@ -1,0 +1,5 @@
+.container, .content, .wrapper, main {
+    max-width: 80vw;  /* Make content take 80% of screen width */
+    width: 80%;
+    margin: auto;
+}
