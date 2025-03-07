@@ -1,5 +1,6 @@
-.container, .content, .wrapper, main {
-    max-width: 80vw;  /* Make content take 80% of screen width */
-    width: 80%;
+/* Ensure everything takes 80% width */
+.container, .content, .wrapper, .page, .section, .main, .article-container, .inner-content {
+    max-width: 70vw !important;
+    width: 70% !important;
     margin: auto;
 }
