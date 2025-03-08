@@ -27,7 +27,7 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: project
+    id: featureproject
     content:
       title: Featured Research
       filters:
