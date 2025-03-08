@@ -7,7 +7,6 @@ weight: 1
 tags:
   - Social Attention
   - Autism
-  - Webcam-based eye-tracking
 featured: true
 ---
 > TLDR:
