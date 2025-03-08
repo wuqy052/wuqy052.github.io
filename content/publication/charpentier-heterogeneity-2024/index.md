@@ -1,6 +1,5 @@
 ---
-title: Heterogeneity in strategy use during arbitration between experiential and observational
-  learning
+title: Heterogeneity in strategy use during arbitration between experiential and observational learning
 authors:
 - Caroline J. Charpentier
 - Qianying Wu
@@ -34,7 +33,6 @@ tags:
 - Human behaviour
 - Learning algorithms
 - Social behaviour
-categories: journal
 links:
 - name: URL
   url: https://www.nature.com/articles/s41467-024-48548-y

@@ -75,7 +75,7 @@ interests:
 
 # Hello! 你好 💐
 
-I am a 5th year PhD student in the [Social and Decision Neuroscience][https://www.hss.caltech.edu/graduate-studies/social-and-decision-neuroscience-phd-program] program at Caltech, co-advised by [Ralph Adolphs][https://emotion.caltech.edu/] and [John O'Doherty][https://www.olab.caltech.edu/]. 
+I am a 5th year PhD student in the [Social and Decision Neuroscience](https://www.hss.caltech.edu/graduate-studies/social-and-decision-neuroscience-phd-program) program at Caltech, co-advised by [Ralph Adolphs](https://emotion.caltech.edu/) and [John O'Doherty](https://www.olab.caltech.edu/). 
 
 I study <span style="color: #ed6b00; font-weight: bold;">social attention</span> and <span style="color: #ed6b00; font-weight: bold;">social learning</span> using <span style="color: #5f7be8; font-weight: bold;">eye-tracking</span>, <span style="color: #5f7be8; font-weight: bold;">behavioral modeling</span>, and <span style="color: #5f7be8; font-weight: bold;">fMRI</span>. An important part of my research focuses on the individual differences in social strategies - where people look, what they think, and how they react. I apply computational tools to characterize atypical social behaivors in psychiatric conditions, especially <span style="color: #8bbf3d; font-weight: bold;">autism</span>.
 

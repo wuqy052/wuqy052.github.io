@@ -1,6 +1,6 @@
 ---
 title: Emulation and Imitation during Observational Learning
-summary: Using 2 large online datasets, I found that individuals with higher autistic traits are less likely to infer the others' goals.
+summary: With 2 large online datasets, I found that individuals with higher autistic traits are less likely to infer the others' goals.
 date: 2025-03-01
 weight: 2
 tags:

@@ -38,5 +38,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+      background:
+        color: #b8d4bd
 
 ---
