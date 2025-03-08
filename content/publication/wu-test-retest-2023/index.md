@@ -2,8 +2,8 @@
 title: Test-Retest Reliability of Resting Brain Small-World Network Properties across
   Different Data Processing and Modeling Strategies
 authors:
-- Qianying Wu
-- Hui Lei
+- **Qianying Wu**
+- **Hui Lei**
 - Tianxin Mao
 - Yao Deng
 - Xiaocui Zhang
