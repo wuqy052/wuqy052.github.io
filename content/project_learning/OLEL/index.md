@@ -10,4 +10,4 @@ tags:
 ---
 
 ### Conference Presentation
-<iframe src="/uploads/OLEL_poster.pdf" width="100%" height="600px"></iframe>
+<iframe src="/uploads/OLEL_poster.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="600px"></iframe>
