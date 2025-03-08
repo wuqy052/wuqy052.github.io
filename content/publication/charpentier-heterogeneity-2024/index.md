@@ -34,6 +34,7 @@ tags:
 - Human behaviour
 - Learning algorithms
 - Social behaviour
+categories: journal
 links:
 - name: URL
   url: https://www.nature.com/articles/s41467-024-48548-y
