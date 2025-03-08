@@ -8,6 +8,7 @@ tags:
   - Webcam-based eye-tracking
   - Social Attention
   - Autism
+featured: true
 ---
 > TLDR:
 

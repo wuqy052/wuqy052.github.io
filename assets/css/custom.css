@@ -1,14 +1,15 @@
 /* Ensure everything takes 80% width */
-.container, .content, .wrapper, .page, .section, .main, .article-container, .inner-content {
-    max-width: 70vw !important;
-    width: 70% !important;
+.article-container {
+    max-width: none;
+    width: 90% !important;
     margin: auto;
+    font-size: 5;
 }
 
 /* Apply 70% width ONLY to the 'project_attention_webgazer' page */
 head:has(meta[property="og:url"][content*="project_attention/webgazer"]) ~ body .article-container {
-    max-width: 70vw !important;
-    width: 70%;
+    max-width: none;
+    width: 90%;
     margin: auto;
 }
 
