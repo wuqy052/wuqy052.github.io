@@ -26,19 +26,10 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Coming soon.
-        
-    design:
-      columns: '1'
   - block: collection
-    id: papers
+    id: project
     content:
-      title: Featured Publications
+      title: Featured Research
       filters:
         folders:
           - project_attention

@@ -3,9 +3,10 @@ title: Observational learning
 summary: Individuals with higher autistic traits are less likely to infer the others' goals.
 date: 2025-03-01
 weight: 1
+featured: true
 tags:
-  - Computational Psychiatry
   - Social Learning
+  - Computational Psychiatry
   - Autism
 ---
 
