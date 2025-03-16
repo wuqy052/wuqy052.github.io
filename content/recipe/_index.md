@@ -1,11 +1,17 @@
 ---
-title: 'Recipe'
+title: "Recipe"
 date: 2025-03-07
+layout: gallery
 
-view: card
+sections:
+  - block: collection
+    content:
+      title: "Home Bakery Recipes"
+      filters:
+        folders:
+          - recipe
+    design:
+      view: card
+      columns: 3
+      fill_image: true
 ---
-
-# A Gallery for Qianying's Home Bakery
-
-
-_Detailed recipes are availabe upon request._
