@@ -1,7 +1,6 @@
 ---
 title: Welcome to Qianying's home bakery
 date: 2025-03-07
-type: landing
 
 sections:
   - block: collection
@@ -13,6 +12,6 @@ sections:
           - recipe
     design:
       view: card
-      columns: 2
+      columns: 3
       limit: 15
 ---
