@@ -11,6 +11,6 @@ sections:
         folders:
           - recipe
     design:
-      view: card
+      view: article-grid
       columns: 3
 ---
