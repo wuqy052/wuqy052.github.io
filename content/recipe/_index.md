@@ -12,7 +12,7 @@ sections:
         folders:
           - recipe
     design:
-      view: article-grid
+      view: card
       columns: 2
       limit: 15
 ---
