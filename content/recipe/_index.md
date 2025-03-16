@@ -1,6 +1,7 @@
 ---
 title: Welcome to Qianying's home bakery
 date: 2025-03-07
+layout: gallery
 
 sections:
   - block: collection
