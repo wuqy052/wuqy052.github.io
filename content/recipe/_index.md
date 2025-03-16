@@ -1,7 +1,8 @@
 ---
 title: 'Recipe'
 date: 2025-03-07
-type: landing
+
+view: card
 ---
 
 # A Gallery for Qianying's Home Bakery
