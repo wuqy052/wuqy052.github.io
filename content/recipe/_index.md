@@ -5,7 +5,7 @@ date: 2025-03-07
 sections:
   - block: collection
     content:
-      title: 
+      title: Home Bakery Recipes
       text: Selected cakes. The recipes are available from the author QW, upon reasonable request.
       filters:
         folders:
@@ -13,5 +13,4 @@ sections:
     design:
       view: card
       columns: 3
-      limit: 15
 ---
