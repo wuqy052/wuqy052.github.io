@@ -33,6 +33,7 @@ abstract: 'Traits are patterns of brain signals and behaviors that are stable ov
 tags:
 - Quantitative Biology - Neurons and Cognition
 - Quantitative Biology - Quantitative Methods
+weight: 5
 links:
 - name: URL
   url: http://arxiv.org/abs/2411.12145

@@ -50,6 +50,7 @@ image:
   preview_only: false
 projects:
 - OL_ASD
+weight: 1
 links:
 - name: URL
   url: https://www.nature.com/articles/s44220-024-00287-1
