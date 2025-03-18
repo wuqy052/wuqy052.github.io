@@ -38,7 +38,10 @@ And for a choice to be EL-consistent, say you yourself choose blue and do not se
 
 
 ### Conference Presentation
-On Apr 2024, I presented the above results at the Social Affective Neuroscience Society (SANS) annual meeting as a data blitz talk titled _Neuro-computational Mechanism Of Reliability-based Arbitration Between Observational And Experiential Learning_. For more details, please check my poster below.
+On Apr 2024, I presented the above results at the Social Affective Neuroscience Society (SANS) annual meeting as a data blitz talk titled _Neuro-computational Mechanism Of Reliability-based Arbitration Between Observational And Experiential Learning_. 
+
+For more details, please check my poster below.
+
 📥 **[Download PDF](uploads/OLEL_poster.pdf)**
 <iframe src="/uploads/OLEL_poster.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="600px"></iframe>
 
