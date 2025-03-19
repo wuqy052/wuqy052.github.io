@@ -10,6 +10,7 @@ design:
 # Page sections
 sections:
   - block: markdown
+    id: projectoverview
     content:
       title: Cognitive Neuroscience * Social Processes * Psychiatry
       text: I am broadly interested in the social component of cognitions - attention, perception, learning, and decision-making. <br><br> The social component can be a socially meaningful sensory stimuli, a learning task that involves the knowledge about or from another person, or a decision that is made during the interaction with others. <br><br> A lot of these processes are affected in psychiatric conditions. Part of my research is to develop novel paradigms and computational models to characterize the challenges of social functioning in clinical populations. 

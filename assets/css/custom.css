@@ -11,3 +11,13 @@
     padding: 20px;
     border-radius: 10px;
 }
+
+#projectoverview {
+    background-color: #e9f7cd !important;
+}
+
+
+blockquote {
+    font-style: normal !important;
+    font-weight: normal !important;
+}
