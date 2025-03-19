@@ -30,11 +30,29 @@ In the task, participants rely on 2 sources of information in order to hunt pear
 2. Experience: participant choose between two shells, and receive feedback as to whether a pearl (the reward) was inside the chosen shell.
 
 ### Disentangling Observational and Experiential Learning
-Now let’s define an OL strategy and an EL strategy. 
-![OL strategy](olel_3.png)
-Here is an OL-consistent choice: say the partner choose this coral, which generates a blue shell, next your partner repeat their choice, which means they probably want a blue shell, therefore you choose blue; but if the next time they switch to the other coral, this might indicate that they do not want blue, so you should choose yellow instead.
-![EL strategy](olel_4.png) 
-And for a choice to be EL-consistent, say you yourself choose blue and do not see a pearl, the next trial you should switch to yellow, and if you do see a pearl, you should stick to blue in your next trial.
+
+![OL strategy](olel_3.png "OL consistent choice: the partner chooses blue-orange coral,, which generates a blue shell. next they repeat their choice, indicating their preference for a blue shell")
+In an OL-consistent choice, one infers the preference of the partner by observing two consecutive trials - whether the partner repeat the coral choice (they want the current shell), or switch the coral choice (they want the other shell).
+
+![EL strategy](olel_4.png "EL consistent chioce: yourself choose blue and do not see a pearl, the next trial you should switch to yellow") 
+In an EL-consistent choice, one repeat the past choice if that choice yielded a pearl, and switch otherwise.
+
+### Reliability-based Arbitration
+
+![Computational framework](olel_5.png "Reliability-based arbitration model") 
+We propose a reliability-based arbitration model to explain the decisions: 
+- there exists two systems that compute the shell values, and they update the values trial by trial through prediction errors.
+- OL uses state prediction errors. SPE is high if the predicted shell from the partner’s chosen coral is different from the actual one. 
+- EL uses reward prediction error. RPE is high if the predicted pearl outcome is different from the actual outcome.
+ - Values computed from the two systems are flexibly combined based on the reliability - a function of the prediction errors. 
+
+### Neural Mechanisms Underlying Value Computations
+
+We tested where in the brain computes each type of decision value. 
+![OL and EL value](olel_6.png) 
+We found the OL-based decision signal in the dorsal medial prefrontal cortex (dmPFC), temporal-parietal junction (TPJ), and superior temporal gyrus (STG). EL-based decision value in the ventromedial prefrontal cortex (vmPFC).
+![Integrated value](olel_7.png)
+We also saw the integrated decision value in both vmPFC and STG.
 
 
 ### Conference Presentation
