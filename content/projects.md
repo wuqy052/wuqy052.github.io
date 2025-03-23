@@ -20,7 +20,7 @@ sections:
         
         A lot of these processes are affected in psychiatric conditions. Part of my research is to develop novel paradigms and computational models to characterize the challenges of social functioning in clinical populations.
         
-        ![Overview](/static/images/wordcloud.png) 
+        ![Overview](/images/wordcloud.png) 
   - block: collection
     id: socialattn
     content:
