@@ -33,7 +33,7 @@ sections:
       view: showcase
       fill_image: false
   - block: collection
-    id:sociallearn
+    id: sociallearn
     content:
       title: Social Learning
       text: Another main focus of my research is the study of social learning, especially observational learning. I'm interested in understanding the neuro-computations of different learning strategies through computational models and neuroimaging.  
