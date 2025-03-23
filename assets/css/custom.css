@@ -7,7 +7,7 @@
 }
 
 #featureproject {
-    background-image: url("background2.svg") !important;
+    background-image: "background2.svg" !important;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
