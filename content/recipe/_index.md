@@ -1,5 +1,5 @@
 ---
-title: Welcome to Qianying's home bakery
+title: Home Bakery
 date: 2025-03-07
 layout: gallery
 id: recipe
@@ -7,9 +7,8 @@ id: recipe
 sections:
   - block: markdown
     content:
-      title: “”
-      text: |
-        Selected cakes. The recipes are available from the author upon reasonable request.
+      title: Welcome to Qianying's home bakery!
+      text: Selected cakes. The recipes are available from the author upon reasonable request.
 
   - block: collection
     id: recipe
