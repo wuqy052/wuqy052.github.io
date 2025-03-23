@@ -17,11 +17,11 @@
 }
 
 #socialattn {
-    background-color: #0d80313a !important;
+    background-color: #94ca999d !important;
 }
 
 #sociallearn {
-    background-color: #8de2d967 !important;
+    background-color: #8de2ba67 !important;
 }
 
 #recipe {
@@ -32,3 +32,9 @@ blockquote {
     font-style: normal !important;
     font-weight: normal !important;
 }
+
+/* assets/css/custom.css */
+.wide-article .article-container {
+    max-width: 90%; /* or 1200px if you want a fixed width */
+  }
+  

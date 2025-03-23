@@ -4,6 +4,7 @@ summary:  Partner with Google, we explored the possibility of in-home autism res
 date: 2025-03-01
 weight: 3
 share: false
+css_class:wide-article
 tags:
   - Smartphone Eye-tracking
   - Social Attention
