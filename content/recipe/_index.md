@@ -3,15 +3,25 @@ title: Welcome to Qianying's home bakery
 date: 2025-03-07
 layout: gallery
 
+
+design:
+  background:
+    color:rgb(255, 242, 249)
+
 sections:
-  - block: collection
+  - block: markdown
     content:
       title: Home Bakery Recipes
-      text: Selected cakes. The recipes are available from the author QW, upon reasonable request.
+      text: |
+        Selected cakes. The recipes are available from the author upon reasonable request.
+
+  - block: collection
+    id: recipe
+    content:
       filters:
         folders:
           - recipe
     design:
       view: article-grid
       columns: 3
----
+
