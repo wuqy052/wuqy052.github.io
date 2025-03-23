@@ -7,10 +7,7 @@
 }
 
 #featureproject {
-    background-image: "background2.svg" !important;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-color: #e9f7cd !important;
     padding: 20px;
     border-radius: 10px;
 }
