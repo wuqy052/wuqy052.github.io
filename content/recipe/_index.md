@@ -10,11 +10,13 @@ design:
 # Page sections
 sections:
   - block: collection
+    title: Welcome to my home bakery!
+    text: I believe in happiness, creativity, and cake.
     id: recipe
     content:
       filters:
         folders:
           - recipe
     design:
-      view: showcase#
+      view: showcase
 ---
