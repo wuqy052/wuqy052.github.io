@@ -9,9 +9,9 @@ tags:
   - Autism
 featured: true
 ---
-TLDR:
+**TLDR**
 
-We utilized a webcam-based eye-tracking technology to characterize social attention in a large autistic population. We investigated gaze patterns while participants watch zoom recordings of group conversations.Data from a preliminary study with 97 autistic and 140 non-autistic online participants suggested that autistic individuals may be more prone to distraction by irrelevant nonsocial events. 
+>We utilized a webcam-based eye-tracking technology to characterize social attention in a large autistic population. We investigated gaze patterns while participants watch zoom recordings of group conversations.Data from a preliminary study with 97 autistic and 140 non-autistic online participants suggested that autistic individuals may be more prone to distraction by irrelevant nonsocial events. 
 
 A pre-registered study is still going on that aims at replicating and expanding the preliminary findings by recruiting a broader and more diverse sample of autistic and non-autistic participants. Stay tuned!
 
