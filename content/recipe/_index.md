@@ -16,6 +16,5 @@ sections:
         folders:
           - recipe
     design:
-      view: article-grid
-      columns: 3
+      view: showcase#
 ---
