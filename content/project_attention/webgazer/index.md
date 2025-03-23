@@ -9,44 +9,43 @@ tags:
   - Autism
 featured: true
 ---
-**TLDR**
+**TL;DR**
 
->We utilized a webcam-based eye-tracking technology to characterize social attention in a large autistic population. We investigated gaze patterns while participants watch zoom recordings of group conversations.Data from a preliminary study with 97 autistic and 140 non-autistic online participants suggested that autistic individuals may be more prone to distraction by irrelevant nonsocial events. 
-
-A pre-registered study is still going on that aims at replicating and expanding the preliminary findings by recruiting a broader and more diverse sample of autistic and non-autistic participants. Stay tuned!
+>We used webcam-based eye-tracking to study social attention in a large autistic sample. Participants watched Zoom-style group conversations while their gaze was recorded. Preliminary data from 97 autistic and 140 non-autistic adults suggest that autistic individuals may be more distracted by irrelevant nonsocial events.
+A pre-registered replication with a broader sample is underway. Stay tuned!
 
 ### Webcam-based Eye-tracking
-Most eye-tracking studies are constrained by the need for sophisticated, expensive in-lab equipment that requires complex calibration and in-person laboratory visits. To tackle this limitation, we utilized a webcam-based eye-tracking technology named ['webgazer'](https://webgazer.cs.brown.edu/). 
-
-Webgazer is a user-friendly tool for psychologists and is compatible with most computers, yet it has limited spatial and temporal resolution. Therefore, we designed a unique paradigm that features 2-by-2 grid style stimuli. 
-
-![Testing the feasibility of grid style stimuli](webgazer_1.png "We tested the feasibilities of different grid structures")
+Traditional eye-tracking requires costly lab setups and in-person visits. We (co-lead with [Na Yeon Kim](https://nayeonckim.github.io/)) addressed this by using [WebGazer](https://webgazer.cs.brown.edu/), a webcam-based tool compatible with most home computers.
+To work around its lower resolution, we designed a 2×2 grid-style stimulus layout.
+![Testing the feasibility of grid style stimuli](webgazer_1.png "We tested the feasibilities of different grid layouts and decided to use the 2×2 layout")
 
 ### Feature-engineered Social Conversation Videos
-Perceiving and engaging in conversations are reported as key challenges by autistic people. The increasing use of new teleconferencing platforms, like Zoom, has made it more common to communicate and interact through these platforms. However, there is limited research on how autistic individuals perceive and understand online conversations.
-
-We scripted multiple videos with different topics (e.g., group project, family chat, work conflicts) and had them performed by professional actors to incorporate social features such as turn-takings, reactions of the listeners, as well as distracting background objects. These featuers are designed to have orthogonolized timelines.
-
-![Example video](webgazer_2.png "An example of our video stimuli")
-![Gaze distribution](webgazer_3.png "Example gaze from a participant")
+We created scripted Zoom-style videos on various topics (e.g., group project, family chat, workplace conflict) using professional actors. Each video included social cues (e.g., turn-taking, listener reactions) and irrelevant background distractions, presented with orthogonal timing.
+![Example video](webgazer_2.png "An example video stimuli, 4 people talk with each other")
+We collected eye-tracking data that can tell apart which quadrant the participant looks at.
+![Gaze distribution](webgazer_3.png "Example gaze from a participant, each color is a gaze quadrant.")
 
 ### Large-scale Assessments on Autistic Adults
-We next recruited autistic and nonautistic participants through several channels: 
-1. Online crowdsourcing platform - Prolific
-2. Simons Foundation SPARK Database
-3. Local participants in the LA area. 
+We recruited autistic and non-autistic adults via:
+1. Prolific (online platform)
+2. [SPARK (Simons Foundation database)](https://sparkforautism.org/portal/homepage/)
+3. Local outreach in LA
+
 Each participant watched multiple videos at home while using their own computer webcam to record their eye movements.
 
 With some preliminary data from 97 autistic and 140 non-autistic participants, we found that 
 - Overall, the data quality was good and comparable between the groups.
 - Autistic individuals may be more prone to distraction by irrelevant nonsocial events in our video stimuli. 
 
-![Equally good data quality](webgazer_4.png "Data quality")
-![More gaze on distractions](webgazer_5.png "Gaze on distractions")
+![Equally good data quality](webgazer_4.png "Data quality was good and comparable between the groups")
+![More gaze on distractions](webgazer_5.png "The ASD group had more gaze at distractions")
 
-In May 2024, I presented these results at the International Society for Autism Research (INSAR) 2024 Annual Meeting in an oral session titled "Differential Gaze Patterns in Autism While Watching Video Conversations: An Online Eye-Tracking Study". [Abstract](https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/docs/annualmeeting/abstract_book_2024.pdf)
+### Conference Presentation
+In May 2024, I presented these results at the International Society for Autism Research (INSAR) 2024 Annual Meeting in an oral session titled "Differential Gaze Patterns in Autism While Watching Video Conversations: An Online Eye-Tracking Study". 
 
-### A Pre-registered experiment
-Our team is currently working on a pre-registered experiment using the same paradigm. Stay tuned! 
+[Abstract](https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/docs/annualmeeting/abstract_book_2024.pdf)
 
-Please find all the details in our [OSF Preregistration](https://osf.io/xa5kd/) 
+### Ongoing Pre-registered Study
+Our team is currently working on a pre-registered experiment using the same paradigm with a more diverse sample. Stay tuned! 
+
+[see our OSF Preregistration](https://osf.io/xa5kd/) 
