@@ -20,8 +20,9 @@ sections:
         
         A lot of these processes are affected in psychiatric conditions. Part of my research is to develop novel paradigms and computational models to characterize the challenges of social functioning in clinical populations.
         
-        ![Overview](uploads/wordcloud.webp) 
+        ![Overview](images/wordcloud.webp) 
   - block: collection
+    id: socialattn
     content:
       title: Social Attention
       text: I study social attention through eye-tracking (ET), including screen-based ET, webcam-based ET, and smartphone ET. I apply feature-based visual saliency models to characterize individual differences in attention allocations during video free viewing. 
@@ -32,6 +33,7 @@ sections:
       view: showcase
       fill_image: false
   - block: collection
+    id:sociallearn
     content:
       title: Social Learning
       text: Another main focus of my research is the study of social learning, especially observational learning. I'm interested in understanding the neuro-computations of different learning strategies through computational models and neuroimaging.  
