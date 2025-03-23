@@ -34,6 +34,6 @@ blockquote {
 }
 
 body[data-page-url="/publication/"] {
-    background-color: #f9dde7; /* Replace with your preferred color */
+    background-color: #f9dde7 !important;
   }
   

@@ -13,6 +13,6 @@ main:
   - name: Publication
     url: publication/
     weight: 30
-  - name: 🍰 Recipe
+  - name: 🍰 Projects
     url: recipe/
     weight: 40
