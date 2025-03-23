@@ -41,7 +41,7 @@ With some preliminary data from 97 autistic and 140 non-autistic participants, w
 ![More gaze on distractions](webgazer_5.png "The ASD group had more gaze at distractions")
 
 ### Conference Presentation
-In May 2024, I presented these results at the International Society for Autism Research (INSAR) 2024 Annual Meeting in an oral session titled "Differential Gaze Patterns in Autism While Watching Video Conversations: An Online Eye-Tracking Study". 
+In May 2024, I presented these results at the International Society for Autism Research (INSAR) 2024 Annual Meeting in an oral session titled **_"Differential Gaze Patterns in Autism While Watching Video Conversations: An Online Eye-Tracking Study"_**. 
 
 [Abstract](https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/docs/annualmeeting/abstract_book_2024.pdf)
 
