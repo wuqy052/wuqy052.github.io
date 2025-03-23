@@ -2,11 +2,7 @@
 title: Welcome to Qianying's home bakery
 date: 2025-03-07
 layout: gallery
-
-
-design:
-  background:
-    color:rgb(255, 242, 249)
+id: recipe
 
 sections:
   - block: markdown
