@@ -50,8 +50,9 @@ We propose a **reliability-based arbitration model** to explain the decisions:
 
 Where does the brain compute these values?
 
+Using model-based fMRI analysis, we found the OL-based decision signal in the **dorsal medial prefrontal cortex (dmPFC), temporal-parietal junction (TPJ), and superior temporal gyrus (STG)**. EL-based decision value in the **ventromedial prefrontal cortex (vmPFC)**.
 ![OL and EL value](olel_6.png) 
-We found the OL-based decision signal in the **dorsal medial prefrontal cortex (dmPFC), temporal-parietal junction (TPJ), and superior temporal gyrus (STG)**. EL-based decision value in the **ventromedial prefrontal cortex (vmPFC)**.
+
 ![Integrated value](olel_7.png)
 We also saw the integrated decision value in both **vmPFC and STG**.
 
