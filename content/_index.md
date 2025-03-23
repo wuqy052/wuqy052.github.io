@@ -39,13 +39,4 @@ sections:
     design:
       view: article-grid
       columns: 2
-      background:
-        color: white
-        image:
-          filename: background2.svg
-                   filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false 
 ---
