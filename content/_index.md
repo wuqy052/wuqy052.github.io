@@ -30,6 +30,7 @@ sections:
     id: featureproject
     content:
       title: Featured Research
+      text: Two main projects during my PhD research. 
       filters:
         folders:
           - project_attention
@@ -39,6 +40,12 @@ sections:
       view: article-grid
       columns: 2
       background:
-        color: #b8d4bd
-
+        color: white
+        image:
+          filename: background2.svg
+                   filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false 
 ---
