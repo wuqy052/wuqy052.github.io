@@ -11,7 +11,7 @@ design:
 sections:
   - block: markdown
     content:
-      title: Home Bakery Recipes
+      title: “”
       text: |
         Selected cakes. The recipes are available from the author upon reasonable request.
 
@@ -24,4 +24,4 @@ sections:
     design:
       view: article-grid
       columns: 3
-
+---
