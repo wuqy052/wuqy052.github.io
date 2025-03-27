@@ -13,10 +13,10 @@ featured: true
 ## Observational Learning
 
 We learn about the world by observing others and inferring from social cues. Two strategies are typically involved during observational learning:
-1. Goal emulation: the observer actively infers the observee’s beliefs and the environment, and selects actions most appropriate for the inferred goal
-2. Action imitation: the observer repeats the observed actions without inferring the underlying goal
+1. Goal emulation: inferring others’ goals and choosing actions based on that inference
+2. Action imitation: directly copying observed actions without inferring goals
 
-In this study, we administered an observational learning task to over 1,000 online participants. This task was designed to effectively dissociate goal emulation and action imitation.
+In this study, over 1,000 online participants completed a task designed to dissociate these two strategies.
 
 ![The observational learning task](ol_1.png "The Observational learning task. In ‘observe’ trials, participants saw the choice options of the agent—three slot machines, one was unavailable (grayed out)—followed by a video showing the partner’s action (button press) and the chosen slot machine (bent arm). In ‘play’ trials, participants saw their own choice options and made a response, followed by choice feedback (bent arm) and token feedback. The proportion of colors on each slot machine corresponds to the probability of generating each colored token from that slot machine.")
 
