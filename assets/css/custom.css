@@ -36,4 +36,10 @@ blockquote {
 body[data-page-url="/publication/"] {
     background-color: #f9dde7 !important;
   }
+
+.page {
+    max-width: 1200px;
+    /* adjust as needed */
+    margin: 0 auto;
+}
   
