@@ -8,6 +8,7 @@ tags:
   - Social Attention
   - Autism
 featured: true
+show_table_of_contents: false
 ---
 **TL;DR**
 

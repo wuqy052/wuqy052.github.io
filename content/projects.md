@@ -16,17 +16,17 @@ sections:
       text: |
         ![Overview](/images/wordcloud.png) 
 
-        I am broadly interested in the social component of cognitions - attention, perception, learning, and decision-making. 
+        I study the social dimensions of cognition — how attention, perception, learning, and decision-making are shaped by social context.
         
-        The social component can be a socially meaningful sensory stimuli, a learning task that involves the knowledge about or from another person, or a decision that is made during the interaction with others. 
+        This includes processing socially meaningful stimuli, learning about or from others, and making decisions during interpersonal interactions.
         
-        A lot of these processes are affected in psychiatric conditions. Part of my research is to develop novel paradigms and computational models to characterize the challenges of social functioning in clinical populations.
+        Many of these processes are altered in psychiatric conditions. My research aims to develop novel tasks and computational models to better understand and characterize social functioning challenges in clinical populations.
         
   - block: collection
     id: socialattn
     content:
       title: Social Attention
-      text: I study social attention through eye-tracking (ET), including screen-based ET, webcam-based ET, and smartphone ET. I apply feature-based visual saliency models to characterize individual differences in attention allocations during video free viewing. 
+      text: I study social attention using eye-tracking (ET) across screen-based, webcam-based, and smartphone platforms. I apply feature-based visual saliency models to capture individual differences in attention allocation during naturalistic video viewing.
       filters:
         folders:
           - project_attention
@@ -37,7 +37,7 @@ sections:
     id: sociallearn
     content:
       title: Social Learning
-      text: Another main focus of my research is the study of social learning, especially observational learning. I'm interested in understanding the neuro-computations of different learning strategies through computational models and neuroimaging.  
+      text: Another key focus of my research is social learning, particularly observational learning. I investigate the underlying neuro-computations of different learning strategies using computational modeling and neuroimaging.
       filters:
         folders:
           - project_learning

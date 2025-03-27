@@ -29,7 +29,7 @@ sections:
   - block: collection
     id: featureproject
     content:
-      title: Featured Research
+      title: 🔎 Featured Research
       text: Two main projects during my PhD research. 
       filters:
         folders:
