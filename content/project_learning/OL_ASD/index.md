@@ -22,10 +22,10 @@ In this study, over 1,000 online participants completed a task designed to disso
 
 ## Computational Models of Observational Learning
 
-To quantitatively describe people's behaviors, we developed a set of models to characterize their strategies, including:
-1. Imitation model: one will repeat the partner's most recent action (left or right slot machine)
-2. Emulation model: the value of the slot machines will be learned through Bayesian inferences, based on the observed choice history of the partner
-3. Fixed mixture model: combine  imitation and emulation with a fixed probability
+To capture participants’ strategies, we developed and compared several computational models:
+1. Imitation model: repeat the partner's most recent action (left or right slot machine)
+2. Emulation model: infers slot machine values through Bayesian learning based on the partner’s choice history
+3. Fixed mixture model: combine imitation and emulation with a fixed probability
 4. Dyanamic arbitration model: combine imitation and emulation with a changing probability, depending on the reliability of each strategy
 5. Non-learning model: inattentive or task-irrelevant behaviors
 
@@ -35,11 +35,11 @@ To quantitatively describe people's behaviors, we developed a set of models to c
 
 Human social behavior features profound individual differences. Some people are outgoing, others reclusive. Autism has emerged as a dimensional construct that underlines difficulties in social interaction and communication. 
 
-Based on existing evidence about social learning challenges in autistic individuals, and nonautistic individuals who have high autistic traits, our hypothesis was that **individuals with higher levels of autism-like traits would be less likely to rely on emulation**.
+Building on prior work linking autistic traits to social learning differences, we hypothesized that **individuals with higher levels of autism-like traits would be less likely to rely on emulation**.
 
 A couple of results supported our hypothesis, here are two of them.
 
-First, we clustered participants by their most likely strategies in the observational learning task. We defined 4 strategy groups based on the computational model fittings: a non-learning group, an imitation group, an emulation group, and a mixture group. We found that people in the emulation group had the lowest autistic scores, followed by the mixture group and imitation group. People in the non-learning group had the highest autistic scores.
+Using computational model fits, we grouped participants into four strategy types: a non-learning group, an imitation group, an emulation group, and a mixture group. Autistic trait scores varied across groups, with the lowest in the emulation group and highest in the non-learning group.
 
 ![Strategy groups](ol_3.png "Violin plots of the distribution of autistic score in each of the four strategy groups (error bars are centered at the mean and represent s.d.)")
 

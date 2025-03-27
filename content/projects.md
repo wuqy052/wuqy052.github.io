@@ -12,10 +12,9 @@ sections:
   - block: markdown
     id: projectoverview
     content:
-      title: Cognitive Neuroscience * Social Processes * Psychiatry
+      title: ''
       text: |
         ![Overview](/images/wordcloud.png) 
-
         I study the social dimensions of cognition — how attention, perception, learning, and decision-making are shaped by social context.
         
         This includes processing socially meaningful stimuli, learning about or from others, and making decisions during interpersonal interactions.
