@@ -15,6 +15,8 @@ tags:
 }
 </style>
 
+## Smartphone Eyetracking
+
 Our Caltech team (led by [Na Yeon Kim](https://nayeonckim.github.io/)), partnered with Google Resesarch, and conducted a proof-of-concept study that investigated social attention in autism using a smartphone eye-tracking technology.
 
 We showed participants natural scene images and short YouTube videos, while measuring their eye movements from a screen-based eye-tracker and a smartphone eye-tracker. 
@@ -23,11 +25,11 @@ We showed participants natural scene images and short YouTube videos, while meas
 
 We found consistent results measured between the screen-based and smartphone eye-trackers. Autistic participants are more likely to focus on nonsocial aspects of the video, such as objects or background patterns, while neurotypical subjects focus more on social aspects, such as people's faces.
 
-<span class="text-2xl font-bold text-red-600">Publication</span>
+## Publication
 
 Now published at _Autism Research_ titled **"Smartphone-based gaze estimation for in-home autism research"**.[Full text](https://onlinelibrary.wiley.com/doi/full/10.1002/aur.3140)
 
 
-<span class="text-2xl font-bold text-red-600">On Media</span>
+# Media
 
 Our study also received attention from _The TCCI Research News_: [Autism Research Via Smartphone](https://www.cheninstitute.org/news/autism-research-via-smartphone)
