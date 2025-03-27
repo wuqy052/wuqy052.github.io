@@ -27,19 +27,6 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: test
-    content:
-      title: teset
-      text: Two main projects during my PhD research. 
-      filters:
-        folders:
-          - project_attention
-          - project_learning
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
     id: featureproject
     content:
       title: 🔎 Featured Research
@@ -50,6 +37,6 @@ sections:
           - project_learning
         featured_only: true
     design:
-      view: article-list
-      columns: 1
+      view: article-grid
+      columns: 2
 ---
