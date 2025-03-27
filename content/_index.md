@@ -39,22 +39,25 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: timeline
+  - block: card
+    id: news
     content:
       title: News & Highlights
       items:
         - title: Interview with Nature
-          date: 2024-11-01
-          text: |
-            My research on social attention in autism was featured in Nature's Spotlight series.  
-            <a href="https://www.nature.com/articles/example" target="_blank" class="text-blue-600 underline">Read the article</a>.
+          subtitle: 2024-11-01
+          content: |
+            My research on social attention in autism was featured in Nature.  
+            [Read article](https://www.nature.com/articles/example)
           image: /images/news/nature-spotlight.jpg
 
         - title: Lab Website Launched
-          date: 2023-06-20
-          text: |
-            I launched my lab’s official website showcasing our latest projects and collaborators.  
-            <a href="https://mylab.example.com" target="_blank" class="text-blue-600 underline">Visit the lab website</a>.
+          subtitle: 2023-06-20
+          content: |
+            We launched our new lab website showcasing projects and people.  
+            [Visit lab site](https://mylab.example.com)
           image: /images/news/lab-site.png
-
+    design:
+      columns: 1
+      view: compact
 ---
