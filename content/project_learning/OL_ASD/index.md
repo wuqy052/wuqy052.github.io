@@ -13,8 +13,8 @@ featured: true
 ## Observational Learning
 
 We learn about the world by observing others and inferring from social cues. Two strategies are typically involved during observational learning:
-1. Goal emulation: inferring others’ goals and choosing actions based on that inference
-2. Action imitation: directly copying observed actions without inferring goals
+1. **Goal emulation**: inferring others’ goals and choosing actions based on that inference
+2. **Action imitation**: directly copying observed actions without inferring goals
 
 In this study, over 1,000 online participants completed a task designed to dissociate these two strategies.
 
@@ -23,11 +23,11 @@ In this study, over 1,000 online participants completed a task designed to disso
 ## Computational Models of Observational Learning
 
 To capture participants’ strategies, we developed and compared several computational models:
-1. Imitation model: repeat the partner's most recent action (left or right slot machine)
-2. Emulation model: infers slot machine values through Bayesian learning based on the partner’s choice history
-3. Fixed mixture model: combine imitation and emulation with a fixed probability
-4. Dyanamic arbitration model: combine imitation and emulation with a changing probability, depending on the reliability of each strategy
-5. Non-learning model: inattentive or task-irrelevant behaviors
+1. **Imitation model**: repeat the partner's most recent action (left or right slot machine)
+2. **Emulation model**: infers slot machine values through Bayesian learning based on the partner’s choice history
+3. **Fixed mixture model**: combine imitation and emulation with a fixed probability
+4. **Dyanamic arbitration model**: combine imitation and emulation with a changing probability, depending on the reliability of each strategy
+5. **Non-learning model**: inattentive or task-irrelevant behaviors
 
 ![Computational models](ol_2.png "In the imitation model, action values are computed by the partner’s most recent action. In the emulation model, a player first updates the token value according to the partner’s choice, and then computes action values by combining token values and probabilities. The weight is a fixed parameter in the fixed mixture model and a changing variable in the dynamic arbitration model. Emulation bias represents a predisposition of emulation while flexibly updating the weight, trial by trial.")
 
@@ -39,11 +39,11 @@ Building on prior work linking autistic traits to social learning differences, w
 
 A couple of results supported our hypothesis, here are two of them.
 
-Using computational model fits, we grouped participants into four strategy types: a non-learning group, an imitation group, an emulation group, and a mixture group. Autistic trait scores varied across groups, with the lowest in the emulation group and highest in the non-learning group.
+Using computational model fits, we grouped participants into four strategy types: a non-learning group, an imitation group, an emulation group, and a mixture group. Autistic trait scores varied across groups, with **the lowest in the emulation group and highest in the non-learning group**.
 
 ![Strategy groups](ol_3.png "Violin plots of the distribution of autistic score in each of the four strategy groups (error bars are centered at the mean and represent s.d.)")
 
-Second, we looked at one parameter in the dynamic arbitration model - the emulation bias. This parameter represents one's inherent propensity of performing emulation over imitation, independent of the reliabilities of each strategy. We found that higher autistic traits were associated with reduced emulation bias.
+Second, we looked at one parameter in the dynamic arbitration model - the emulation bias. This parameter represents one's inherent propensity of performing emulation over imitation, independent of the reliabilities of each strategy. We found that **higher autistic traits were associated with reduced emulation bias**.
 
 ![Emulation bias](ol_4.png "Correlation between emulation bias and autistic traits")
 
