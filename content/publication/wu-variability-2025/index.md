@@ -11,7 +11,7 @@ authors:
 date: '2025-02-01'
 publishDate: '2025-02-27T22:16:50.685987Z'
 publication_types:
-- manuscript
+- preprint
 publication: '*OSF*'
 doi: 10.31234/osf.io/gnh26_v1
 abstract: 'The surge of online psychological assessments have brought the autism research

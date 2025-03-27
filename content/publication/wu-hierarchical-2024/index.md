@@ -8,7 +8,7 @@ authors:
 date: '2024-11-01'
 publishDate: '2025-02-27T22:16:50.710097Z'
 publication_types:
-- manuscript
+- preprint
 publication: '*arXiv*'
 doi: 10.48550/arXiv.2411.12145
 abstract: 'Traits are patterns of brain signals and behaviors that are stable over

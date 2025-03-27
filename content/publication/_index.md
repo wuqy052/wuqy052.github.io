@@ -11,8 +11,8 @@ sections:
       filters:
         folders: 
           - publication
-        tags:
-          - Autism
+        publication_types:
+          - manuscript
     design:
       view: citation
       columns: 1
@@ -23,8 +23,8 @@ sections:
       filters:
         folders:
           - publication
-        tags:
-          - Social Learning
+        publication_types:
+          - preprint
     design:
       view: citation
       columns: 1
