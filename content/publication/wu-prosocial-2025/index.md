@@ -1,0 +1,43 @@
+---
+title: Prosocial decisions in naturalistic helping scenarios are predicted by cost-benefit
+  tradeoffs and individual disposition
+authors:
+- Qianying Wu
+- Miao Song
+- Jackie Ayoub
+- David Dunning
+- Danyang Tian
+- Ehsan Moradi-Pari
+date: '2025-12-01'
+publishDate: '2026-01-15T19:09:07.461746Z'
+publication_types:
+- article-journal
+publication: '*Communications Psychology*'
+doi: 10.1038/s44271-025-00371-x
+abstract: 'The origins of human prosociality, in particular between strangers, are
+  multifaceted. While laboratory studies support a cost-benefit account of helping,
+  real-life scenarios involve additional socio-emotional motives grounded in subjective
+  intuitions. How the cost-benefit model generalizes to everyday helping behavior
+  remains unclear. In this study, we comprehensively assessed how motivations jointly
+  shape helping across 100 naturalistic helping scenarios: an online sample (N1 =
+  215) rated willingness to help after reading brief vignettes, and a subset (N2 =
+  140) rated the strengths of candidate motivations elicited by each scenario. Two
+  key factors—benefit to both helper and helpee, and cost to the helper—were identified
+  through a factor analysis of the motivation ratings. We then successfully predicted
+  helping decisions as a linear weighted sum of the two motivational factors, along
+  with a dispositional helping bias. While a higher helping bias was associated with
+  greater trait agreeableness and dispositional empathy, whereas individuals who prioritized
+  cost over benefit exhibited higher levels of punishment sensitivity. Finally, we
+  characterized the helping scenarios in three associated spaces: a decision space
+  (willingness to help levels), a motivation space (two key motivational factors),
+  and a semantic space (14 semantic types). Combining computational modeling with
+  naturalistic helping contexts, this approach provides an integrated account of prosocial
+  motivation and clarifies how individual differences in personality map onto real-world
+  helping behaviors.'
+tags:
+- Decision making
+- Human behaviour
+links:
+- name: URL
+  url: https://www.nature.com/articles/s44271-025-00371-x
+---
